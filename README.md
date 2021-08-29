@@ -4,7 +4,7 @@ hole = 'O',
 field = '░',
 Character = '*',
 
-To play: type "node hatgame.js" in the terminal.
+To play: type "node hatgame.js" in the terminal. <br>
 Use only "U", "D", "L" , "R".
 Objective: To reach the hat without falling into the hole.
 
